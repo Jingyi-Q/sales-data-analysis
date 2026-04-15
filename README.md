@@ -26,14 +26,15 @@ The insights can help managers with inventory planning, marketing strategies, an
    - Office Supplies: $705,422
 3. **Monthly Trend**: Sales range from $10,000 to $27,000 per month, with peaks in August 2015 and September 2018. No strong seasonality detected.
 
-## Visualizations
-![Monthly Sales Trend](monthly_trend.png)
 
 ## How to Reproduce
-1. Clone this repository
-2. Install required libraries:
+1. Clone this repository:
    ```bash
+   https://github.com/Jingyi-Q/sales-data-analysis.git
+2. Install required libraries:
    pip install pandas matplotlib jupyter
+3. Launch Jupyter Notebook and open sales_analysis.ipynb
+4. Run all cells (Kernel → Restart & Run All)
 
 ## Author
 Jingyi
