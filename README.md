@@ -26,6 +26,8 @@ The insights can help managers with inventory planning, marketing strategies, an
    - Office Supplies: $705,422
 3. **Monthly Trend**: Sales range from $10,000 to $27,000 per month, with peaks in August 2015 and September 2018. No strong seasonality detected.
 
+## Visualizations
+![Monthly Sales Trend](monthly_trend.png)
 
 ## How to Reproduce
 1. Clone this repository:
